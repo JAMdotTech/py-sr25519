@@ -20,5 +20,5 @@ name = "sr25519"
 crate-type = ["cdylib"]
 
 [dependencies.pyo3]
-version = "0.20.3"
+version = "0.24.1"
 features = ["extension-module"]
