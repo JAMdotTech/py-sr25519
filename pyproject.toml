@@ -4,7 +4,7 @@ build-backend = "maturin"
 
 [project]
 name = "py-sr25519-bindings"
-version = "0.2.2"
+version = "0.2.3"
 description = "Python bindings for schnorrkel RUST crate"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -14,7 +14,7 @@ authors = [
   {name = "Polkascan Foundation"}
 ]
 maintainers = [
-  {name = "Polkascan Foundation", email = "info@polkascan.org"}
+  {name = "JAMdot Technologies", email = "devops@jamdot.tech"}
 ]
 classifiers = [
     "License :: OSI Approved :: Apache Software License",
